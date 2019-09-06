@@ -41,7 +41,7 @@
 		]
 	3. 查看指定图片
 	请求
-		GET /imgae/156151
+		GET /imgae/image_id
 	响应
 	HTTP 200 OK
 	{
